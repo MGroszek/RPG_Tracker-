@@ -29,7 +29,8 @@ This project was created to practice core Python concepts:
    git clone [https://github.com/MGroszek/RPG_Tracker-.git](https://github.com/MGroszek/RPG_Tracker-.git)
    '''
 2.Run the Game 
-  
+  ```bash
   python rpg_tracker.py
+'''
 
 Author:@MGroszek
