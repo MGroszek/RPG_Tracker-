@@ -19,6 +19,7 @@ This project was created to practice core Python concepts:
 
 ## 🛠️ Built With
 * [Python 3](https://www.python.org/)
+
 * [Pandas](https://pandas.pydata.org/) (for data handling)
 * JSON & OS modules (Standard Library)
 
@@ -27,10 +28,11 @@ This project was created to practice core Python concepts:
 1. **Clone the repository**
    ```bash
    git clone [https://github.com/MGroszek/RPG_Tracker-.git](https://github.com/MGroszek/RPG_Tracker-.git)
-   '''
+   
 2.Run the Game 
   ```bash
   python rpg_tracker.py
-'''
+
+
 
 Author:@MGroszek
