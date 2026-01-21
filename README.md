@@ -32,7 +32,10 @@ This project was created to practice core Python concepts:
 2.Run the Game 
   ```bash
   python rpg_tracker.py
+```
 
 
 
-Author:@MGroszek
+## 👤 Author
+**Mateusz**
+* GitHub: [@MGroszek](https://github.com/MGroszek)
